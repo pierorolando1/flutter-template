@@ -1,6 +1,6 @@
-# flutter_samples_by_pierorolando1
+# flutter_template_by_pierorolando1
 
-A new Flutter project.
+Template para mis proyectos.
 
 ## Getting Started
 
